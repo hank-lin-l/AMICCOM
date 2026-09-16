@@ -1,0 +1,6 @@
+{
+  "name": "笙科電子 AMICCOM - 射頻晶片領導廠商",
+  "description": "笙科電子 (AMICCOM) 官方微架構與射頻晶片產品矩陣展示平台，提供 Sub-1GHz、BLE 5.4、2.4GHz 專用頻段及 GNSS 衛星導航超低功耗射頻解決方案與技術規格書索取。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
